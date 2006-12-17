@@ -1,4 +1,4 @@
-<img src="http://proyectar.movrev.com/images/pape.png"/>
+http://proyectar.movrev.com/images/pape.png
 
 = NEWS =
 

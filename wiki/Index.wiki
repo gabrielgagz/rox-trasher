@@ -1,15 +1,23 @@
-<img src="http://proyectar.movrev.com/images/logo.png"></img>
+= ROX-Trasher =
 
-= Introduction =
+This is a modified "Trash" Rox-App original wroten for Puppy Linux by Dan Van Wormer and
+adapted for non-distribution, user specific and actual version of Rox-Filer.    
 
-Add your content here.
+
+= NEWS =
+
+Version 0.4
+---------------
+
+- Now restore the desktop shortcut if the trashed item has one.
+- Check if you own the item, if not, a warning message is displayed.
+- The status .DirIcon of the trashcan now is linked, not copied.
+
+= REQUERIMENTS =
+
+zenity >= 2.12.1 (or less?)
 
 
-= Details =
+= TESTERS =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
-Hola
+David Arthur (dave@kouya.ne)

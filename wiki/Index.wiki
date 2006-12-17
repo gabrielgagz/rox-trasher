@@ -1,4 +1,3 @@
-
 = ROX-Trasher =
 
 This is a modified "Trash" Rox-App original wroten for Puppy Linux by Dan Van Wormer and
@@ -11,13 +10,13 @@ adapted for non-distribution, user specific and actual version of Rox-Filer.
 Version 0.4
 ---------------
 
-- Added FreeDesktop.org specifications.
-- Removed all sounds.
-- Now restore the panel shortcut if the trashed item has one.
-- Improved the pinboard restauration operation.
-- Removed the "Extra Icons" directory.
-- Improved the AppInfo files.
-- File type detection (based on the Dennis Thomas trashcan).
+* Added FreeDesktop.org specifications.
+* Removed all sounds.
+* Now restore the panel shortcut if the trashed item has one.
+* Improved the pinboard restauration operation.
+* Removed the "Extra Icons" directory.
+* Improved the AppInfo files.
+* File type detection (based on the Dennis Thomas trashcan).
 
 
 
@@ -26,8 +25,9 @@ Version 0.4
 zenity >= 2.12.1 (or less?)
 
 
-
-
 = TESTERS =
 
 David Arthur (dave@kouya.ne)
+
+
+[Downloads] http://code.google.com/p/rox-trasher/downloads/list

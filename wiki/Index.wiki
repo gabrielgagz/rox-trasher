@@ -1,3 +1,5 @@
+<img src="http://proyectar.movrev.com/images/pape.png"/>
+
 = NEWS =
 
 Version 0.4

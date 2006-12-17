@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+<img src="http://proyectar.movrev.com/images/logo.png"></img>
 
 = Introduction =
 

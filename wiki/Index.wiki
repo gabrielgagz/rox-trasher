@@ -1,6 +1,7 @@
-http://proyectar.movrev.com/images/pape.png
+ =ROX-Trasher=   http://proyectar.movrev.com/images/pape.png
 
-= NEWS =
+
+== NEWS ==
 
 Version 0.4
 ---------------
@@ -15,14 +16,14 @@ Version 0.4
 
 
 
-= REQUERIMENTS =
+== REQUERIMENTS ==
 
 zenity >= 2.12.1 (or less?)
 
 
-= TESTERS =
+== TESTERS ==
 
 David Arthur (dave@kouya.ne)
 
 
-[ http://code.google.com/p/rox-trasher/downloads/list Downloads]
+[http://code.google.com/p/rox-trasher/downloads/list Downloads]

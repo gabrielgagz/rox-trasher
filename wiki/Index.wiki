@@ -10,7 +10,7 @@ adapted for non-distribution, user specific and actual version of Rox-Filer.
 Version 0.4
 ---------------
 
-* Added FreeDesktop.org specifications.
+# Added FreeDesktop.org specifications.
 * Removed all sounds.
 * Now restore the panel shortcut if the trashed item has one.
 * Improved the pinboard restauration operation.
@@ -30,4 +30,5 @@ zenity >= 2.12.1 (or less?)
 David Arthur (dave@kouya.ne)
 
 
-[Downloads] http://code.google.com/p/rox-trasher/downloads/list
+[Downloads] 
+http://code.google.com/p/rox-trasher/downloads/list

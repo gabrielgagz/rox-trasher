@@ -1,4 +1,4 @@
- =ROX-Trasher=   http://proyectar.movrev.com/images/pape.png
+http://proyectar.movrev.com/images/pape.png
 
 
 == NEWS ==
@@ -24,6 +24,3 @@ zenity >= 2.12.1 (or less?)
 == TESTERS ==
 
 David Arthur (dave@kouya.ne)
-
-
-[http://code.google.com/p/rox-trasher/downloads/list Downloads]
